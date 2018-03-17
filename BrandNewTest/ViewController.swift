@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         print("UI Development is done")
         print("Models are done")
-        print("Business Logig is done")
+        print("Business Logic is done")
         print("Networking & Webservice integration is done")
         print("Testing and Bug fixing is done")
         print("App is ready for UAT")
