@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("Networking & Webservice integration is done")
         print("Testing and Bug fixing is done")
         print("App is ready for UAT")
-        print("First Production Release happended on 17-March-2018")
+        print("This is the Second Release changes")
     }
 
     override func didReceiveMemoryWarning() {
