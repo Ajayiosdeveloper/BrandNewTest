@@ -641,7 +641,7 @@
 				INFOPLIST_FILE = "BrandNewTest UAT-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-DUAT";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.ist.BrandNewTest;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apple.ist.BrandNewTest-UAT";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -657,7 +657,7 @@
 				INFOPLIST_FILE = "BrandNewTest UAT-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-DUAT";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.ist.BrandNewTest;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apple.ist.BrandNewTest-UAT";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -673,7 +673,7 @@
 				INFOPLIST_FILE = "BrandNewTest Dev-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-DDev";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.ist.BrandNewTest;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apple.ist.BrandNewTest-UAT";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -689,7 +689,7 @@
 				INFOPLIST_FILE = "BrandNewTest Dev-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-DDev";
-				PRODUCT_BUNDLE_IDENTIFIER = com.apple.ist.BrandNewTest;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apple.ist.BrandNewTest-UAT";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -13,6 +13,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("UI Development is done")
+        print("Models are done")
+        print("Business Logic is done")
+        print("Networking & Webservice integration is done")
+        print("Testing and Bug fixing is done")
+        print("App is ready for UAT")
+        print("First Production Release happended on 17-March-2018")
     }
 
     override func didReceiveMemoryWarning() {
