@@ -21,7 +21,6 @@ class ViewController: UIViewController {
         print("App is ready for UAT")
         print("This is the Second Release changes")
         print("This is the Third release changes")
-    
     }
 
     override func didReceiveMemoryWarning() {
