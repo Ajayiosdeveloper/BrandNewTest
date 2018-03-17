@@ -16,6 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        #if PROD
+            print("Production Target is executing")
+        #elseif UAT
+            print("UAT Target is executing")
+        #elseif Dev
+            print("Dev Target is executing")
+        #endif
         return true
     }
 
